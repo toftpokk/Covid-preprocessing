@@ -1,7 +1,7 @@
-# Processing Arxiv Dataset
+# Processing Covid Dataset
 
-Data preprocessing of arxiv dataset
+Data preprocessing of covid dataset
 
 ## Dataset
 
-[arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv)
+Thailand Covid Dataset for 12 April 2022, CSV [Here](https://data.go.th/dataset/covid-19-daily)
